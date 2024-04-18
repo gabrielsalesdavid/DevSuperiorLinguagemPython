@@ -12,3 +12,4 @@ else:
     menorDeTres = num03
 
 print(f"O menor eh: {menorDeTres}")
+print("Good Bye")
