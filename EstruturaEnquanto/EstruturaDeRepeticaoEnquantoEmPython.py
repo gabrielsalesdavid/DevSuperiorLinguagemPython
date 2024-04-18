@@ -1,6 +1,6 @@
 num: int
 
-num = int(input("Digite u numero: "))
+num = int(input("Digite um numero: "))
 
 while (num != 0) :
   if num % 2 != 0:
